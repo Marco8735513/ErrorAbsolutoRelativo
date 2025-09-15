@@ -1,0 +1,6 @@
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativoWinForms\bin\Release\ErrorAbsolutoRelativoWinForms.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativoWinForms\bin\Release\ErrorAbsolutoRelativoWinForms.pdb
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativoWinForms\obj\Release\ErrorAbsolutoRelativoCore.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativoWinForms\obj\Release\ErrorAbsolutoRelativoCore.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativoWinForms\obj\Release\ErrorAbsolutoRelativoWinForms.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativoWinForms\obj\Release\ErrorAbsolutoRelativoWinForms.pdb

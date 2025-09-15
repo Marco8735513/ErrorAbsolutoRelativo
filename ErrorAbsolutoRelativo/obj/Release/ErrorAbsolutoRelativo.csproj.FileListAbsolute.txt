@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\bin\Release\ErrorAbsolutoRelativo.exe.config
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\bin\Release\ErrorAbsolutoRelativo.exe
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\bin\Release\ErrorAbsolutoRelativo.pdb
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\bin\Release\ErrorAbsolutoRelativoWinForms.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\bin\Release\ErrorAbsolutoRelativoWinForms.pdb
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\obj\Release\ErrorAbsolutoRelativo.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\obj\Release\ErrorAbsolutoRelativo.FrmErrorAbsoluto.resources
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\obj\Release\ErrorAbsolutoRelativo.Properties.Resources.resources
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\obj\Release\ErrorAbsolutoRelativo.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\obj\Release\ErrorAbsolutoRelativo.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\obj\Release\ErrorAbs.F49BFB41.Up2Date
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\obj\Release\ErrorAbsolutoRelativo.exe
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsolutoRelativo\obj\Release\ErrorAbsolutoRelativo.pdb

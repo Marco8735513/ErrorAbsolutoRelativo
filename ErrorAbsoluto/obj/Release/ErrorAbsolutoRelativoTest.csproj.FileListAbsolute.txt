@@ -1,0 +1,17 @@
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\ErrorAbsoluto.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\ErrorAbsoluto.pdb
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\ErrorAbsolutoRelativoWinForms.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\ErrorAbsolutoRelativoWinForms.pdb
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\obj\Release\ErrorAbsolutoRelativoTest.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\obj\Release\ErrorAbsolutoRelativoTest.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\obj\Release\ErrorAbs.1CBA1218.Up2Date
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\obj\Release\ErrorAbsoluto.dll
+C:\Users\marco\source\repos\ErrorAbsolutoRelativo\ErrorAbsoluto\obj\Release\ErrorAbsoluto.pdb
